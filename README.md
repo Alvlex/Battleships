@@ -1,1 +1,2 @@
-Gave up on python, the closest program to being finished is the main.java
+#Implementation of battleships the game
+Python not complete, but java should work fine.
